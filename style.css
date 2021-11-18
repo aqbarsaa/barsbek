@@ -1,0 +1,23 @@
+body{
+	background-image: url(275px-OnePiece_1.jpg);
+	opacity: .9;
+}
+.conteiner{
+	width: 400px;
+	height: 75%;
+	background-color: gray;
+	margin-left: 40%;
+	border: 
+}
+h1{
+	text-align: center;
+	text-shadow: 3px 3px 10px black;
+	color: white;
+}
+.info{
+	width: 300px;
+	text-align: center;
+	margin-left: 50px;
+	color: black;
+	color: white;
+}
